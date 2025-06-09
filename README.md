@@ -1,4 +1,4 @@
-# Mood Tunes Music Player
+# MusicBuddy Music Player
 
 A modern, feature-rich music player application that lets you manage and enjoy your music library with style.
 
@@ -90,7 +90,6 @@ A modern, feature-rich music player application that lets you manage and enjoy y
 
 ## Support
 
-For help and support:
-- Check our [FAQ section](docs/FAQ.md)
+For help and support
 - Report issues on our GitHub page
 - Contact support at musicappsupport@.gmailcom
